@@ -1,0 +1,65 @@
+C:\Users\Homayoon\source\repos\JwtClient\Client\bin\Debug\Client.exe.config
+C:\Users\Homayoon\source\repos\JwtClient\Client\bin\Debug\Client.exe
+C:\Users\Homayoon\source\repos\JwtClient\Client\bin\Debug\Client.pdb
+C:\Users\Homayoon\source\repos\JwtClient\Client\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Homayoon\source\repos\JwtClient\Client\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Homayoon\source\repos\JwtClient\Client\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Homayoon\source\repos\JwtClient\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Homayoon\source\repos\JwtClient\Client\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Homayoon\source\repos\JwtClient\Client\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\Homayoon\source\repos\JwtClient\Client\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Homayoon\source\repos\JwtClient\Client\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+C:\Users\Homayoon\source\repos\JwtClient\Client\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Homayoon\source\repos\JwtClient\Client\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\Homayoon\source\repos\JwtClient\Client\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Homayoon\source\repos\JwtClient\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Homayoon\source\repos\JwtClient\Client\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Homayoon\source\repos\JwtClient\Client\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Homayoon\source\repos\JwtClient\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Homayoon\source\repos\JwtClient\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Homayoon\source\repos\JwtClient\Client\obj\Debug\Client.exe
+C:\Users\Homayoon\source\repos\JwtClient\Client\obj\Debug\Client.pdb
+C:\Undervisning\IT Security\Solutions\JwtAuthClient\JwtClient\Client\bin\Debug\Client.exe.config
+C:\Undervisning\IT Security\Solutions\JwtAuthClient\JwtClient\Client\bin\Debug\Client.exe
+C:\Undervisning\IT Security\Solutions\JwtAuthClient\JwtClient\Client\bin\Debug\Client.pdb
+C:\Undervisning\IT Security\Solutions\JwtAuthClient\JwtClient\Client\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Undervisning\IT Security\Solutions\JwtAuthClient\JwtClient\Client\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Undervisning\IT Security\Solutions\JwtAuthClient\JwtClient\Client\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Undervisning\IT Security\Solutions\JwtAuthClient\JwtClient\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Undervisning\IT Security\Solutions\JwtAuthClient\JwtClient\Client\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Undervisning\IT Security\Solutions\JwtAuthClient\JwtClient\Client\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Undervisning\IT Security\Solutions\JwtAuthClient\JwtClient\Client\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Undervisning\IT Security\Solutions\JwtAuthClient\JwtClient\Client\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+C:\Undervisning\IT Security\Solutions\JwtAuthClient\JwtClient\Client\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Undervisning\IT Security\Solutions\JwtAuthClient\JwtClient\Client\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+C:\Undervisning\IT Security\Solutions\JwtAuthClient\JwtClient\Client\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Undervisning\IT Security\Solutions\JwtAuthClient\JwtClient\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Undervisning\IT Security\Solutions\JwtAuthClient\JwtClient\Client\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+C:\Undervisning\IT Security\Solutions\JwtAuthClient\JwtClient\Client\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Undervisning\IT Security\Solutions\JwtAuthClient\JwtClient\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Undervisning\IT Security\Solutions\JwtAuthClient\JwtClient\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Undervisning\IT Security\Solutions\JwtAuthClient\JwtClient\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Undervisning\IT Security\Solutions\JwtAuthClient\JwtClient\Client\obj\Debug\Client.exe
+C:\Undervisning\IT Security\Solutions\JwtAuthClient\JwtClient\Client\obj\Debug\Client.pdb
+C:\Users\sunsh\Desktop\4.semester\IT-Sikkerhed\JwtAuthServerClient\JwtAuthClient\JwtClient\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\sunsh\Desktop\4.semester\IT-Sikkerhed\JwtAuthServerClient\JwtAuthClient\JwtClient\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\sunsh\Desktop\4.semester\IT-Sikkerhed\JwtAuthServerClient\JwtAuthClient\JwtClient\Client\obj\Debug\Client.exe
+C:\Users\sunsh\Desktop\4.semester\IT-Sikkerhed\JwtAuthServerClient\JwtAuthClient\JwtClient\Client\obj\Debug\Client.pdb
+C:\Users\sunsh\Desktop\4.semester\IT-Sikkerhed\JwtAuthServerClient\JwtAuthClient\JwtClient\Client\bin\Debug\Client.exe.config
+C:\Users\sunsh\Desktop\4.semester\IT-Sikkerhed\JwtAuthServerClient\JwtAuthClient\JwtClient\Client\bin\Debug\Client.exe
+C:\Users\sunsh\Desktop\4.semester\IT-Sikkerhed\JwtAuthServerClient\JwtAuthClient\JwtClient\Client\bin\Debug\Client.pdb
+C:\Users\sunsh\Desktop\4.semester\IT-Sikkerhed\JwtAuthServerClient\JwtAuthClient\JwtClient\Client\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sunsh\Desktop\4.semester\IT-Sikkerhed\JwtAuthServerClient\JwtAuthClient\JwtClient\Client\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\sunsh\Desktop\4.semester\IT-Sikkerhed\JwtAuthServerClient\JwtAuthClient\JwtClient\Client\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sunsh\Desktop\4.semester\IT-Sikkerhed\JwtAuthServerClient\JwtAuthClient\JwtClient\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sunsh\Desktop\4.semester\IT-Sikkerhed\JwtAuthServerClient\JwtAuthClient\JwtClient\Client\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sunsh\Desktop\4.semester\IT-Sikkerhed\JwtAuthServerClient\JwtAuthClient\JwtClient\Client\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\sunsh\Desktop\4.semester\IT-Sikkerhed\JwtAuthServerClient\JwtAuthClient\JwtClient\Client\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\sunsh\Desktop\4.semester\IT-Sikkerhed\JwtAuthServerClient\JwtAuthClient\JwtClient\Client\bin\Debug\Microsoft.IdentityModel.Logging.pdb
+C:\Users\sunsh\Desktop\4.semester\IT-Sikkerhed\JwtAuthServerClient\JwtAuthClient\JwtClient\Client\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\sunsh\Desktop\4.semester\IT-Sikkerhed\JwtAuthServerClient\JwtAuthClient\JwtClient\Client\bin\Debug\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\sunsh\Desktop\4.semester\IT-Sikkerhed\JwtAuthServerClient\JwtAuthClient\JwtClient\Client\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\sunsh\Desktop\4.semester\IT-Sikkerhed\JwtAuthServerClient\JwtAuthClient\JwtClient\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sunsh\Desktop\4.semester\IT-Sikkerhed\JwtAuthServerClient\JwtAuthClient\JwtClient\Client\bin\Debug\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\sunsh\Desktop\4.semester\IT-Sikkerhed\JwtAuthServerClient\JwtAuthClient\JwtClient\Client\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\sunsh\Desktop\4.semester\IT-Sikkerhed\JwtAuthServerClient\JwtAuthClient\JwtClient\Client\obj\Debug\Client.csproj.CopyComplete
